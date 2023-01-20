@@ -26,21 +26,21 @@
   left: 50%;
   top: 53%;
   transform: translate(-50%, -50%);
-  background-image: url("/assets/img/11A/i1.JPG");
+  background-image: url("/assets/img/11A/i1.jpeg");
   background-size: 100% 100%;
   box-shadow: 1px 2px 10px 3px white;
   animation: slider 50s infinite linear;
 }
 
 @keyframes slider{
-  0%{background-image: url("/assets/img/11A/i1.JPG");}
-  10%{background-image: url("/assets/img/11A/i2.JPG");}
-  20%{background-image: url("/assets/img/11A/i3.JPG");}
-  30%{background-image: url("/assets/img/11A/i4.JPG");}
-  40%{background-image: url("/assets/img/11A/i5.JPG");}
-  50%{background-image: url("/assets/img/11A/i6.JPG");}
-  60%{background-image: url("/assets/img/11A/i7.JPG");}
-  70%{background-image: url("/assets/img/11A/i8.JPG");}
-  80%{background-image: url("/assets/img/11A/i9.JPG");}
-  90%{background-image: url("/assets/img/11A/i10.JPG");}
+  0%{background-image: url("/assets/img/11A/i1.jpeg");}
+  10%{background-image: url("/assets/img/11A/i2.jpeg");}
+  20%{background-image: url("/assets/img/11A/i3.jpeg");}
+  30%{background-image: url("/assets/img/11A/i4.jpeg");}
+  40%{background-image: url("/assets/img/11A/i5.jpeg");}
+  50%{background-image: url("/assets/img/11A/i6.jpeg");}
+  60%{background-image: url("/assets/img/11A/i7.jpeg");}
+  70%{background-image: url("/assets/img/11A/i8.jpeg");}
+  80%{background-image: url("/assets/img/11A/i9.jpeg");}
+  90%{background-image: url("/assets/img/11A/i10.jpeg");}
 }
